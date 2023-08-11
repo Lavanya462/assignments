@@ -1,0 +1,30 @@
+.parent{
+    background-color: aqua;
+    width:900px;
+    height:900px;
+    position:relative;
+}
+   .child1{
+    background-color: blue;
+    width:200px;
+    height:200px;
+    position: absolute;
+    border:10px solid blue;
+
+}
+.child2{
+    background-color: brown;
+    width: 200px;
+    height:200px;
+    position:absolute;
+    left:270px;
+    top:270px;
+}
+.child3{
+    background-color:green;
+    width:200px;
+    height:200px;
+    position:absolute;
+    left:500px;
+    top:500px;
+}
